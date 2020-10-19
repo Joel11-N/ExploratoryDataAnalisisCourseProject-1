@@ -1,6 +1,6 @@
 # Coursera Data Science: Exploratory Data Analysis
 # Course project 1: Plot1
-# Daniel Romero
+# Joel Coronado Gómez
 ###############################################################load the data
 #############################################################################
 
